@@ -1,4 +1,4 @@
-;; qmake.el -- qmake mode for emacs
+;; qmake.el --- qmake mode for emacs
 ;;
 ;; Author: Carl Olsen
 ;;
